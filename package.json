@@ -1,0 +1,24 @@
+{
+  "name": "labbar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EbbaPersson/labbar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EbbaPersson/labbar/issues"
+  },
+  "homepage": "https://github.com/EbbaPersson/labbar#readme",
+  "devDependencies": {
+    "typescript": "^4.8.2"
+  }
+}
